@@ -40,7 +40,7 @@ require (
 	golang.org/x/text v0.3.5 // indirect
 	gopkg.in/ini.v1 v1.62.0
 	gopkg.in/yaml.v2 v2.4.0 // indirect
-	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b // indirect
+	gopkg.in/yaml.v3 v3.0.0 // indirect
 )
 
 // replace github.com/keybase/go-keychain => github.com/wolfeidau/go-keychain v0.0.0-20210215232950-1e19148f864f
